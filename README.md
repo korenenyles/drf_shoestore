@@ -3,14 +3,14 @@
 ## Front End Link:
 [HERE](https://github.com/korenenyles/drf_shoestore_frontend)
 
-# Worked With:
+## Worked With:
 Sean Bailey, Chris Wilson, received help from Matt Perry. Also used tutorial throughout project 
 made comments where applicable, and also used demo from Instructor Joe.
 
-# Comment for Rubric:
+## Comment for Rubric:
 Located in api/management/commands/bootstrap_data.py
 
-# Assessment:
+## Assessment:
 
 As backend developers, we arguably spend just as much time focusing on services and endpoints than front-facing rendering. APIs in Python are equally easy to set up in micro-frameworks or full-scale frameworks, but using Django allows us the use of some packages to help make our lives easier.
 
