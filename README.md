@@ -1,6 +1,9 @@
-# drf_shoestore
+# DRF SHOESTORE BACKEND
 
-# worked with:
+## Front End Link:
+[HERE](https://github.com/korenenyles/drf_shoestore_frontend)
+
+# Worked With:
 Sean Bailey, Chris Wilson, received help from Matt Perry. Also used tutorial throughout project 
 made comments where applicable, and also used demo from Instructor Joe.
 
